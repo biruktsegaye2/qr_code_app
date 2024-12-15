@@ -103,12 +103,5 @@ lib/
 - **State Management**: Introduce state management (e.g., Provider or Riverpod) for scalability.
 - **Search and Filter**: Add functionality to search or filter scan history.
 - **Export History**: Enable exporting scan history to text or CSV files.
-- **Testing**: Add unit and widget tests for reliability.
 
----
-
-## Conclusion
-
-This app demonstrates effective handling of camera permissions, persistent data storage, and a modular architecture. It serves as a strong foundation for further enhancements and features.
-
-Feel free to contribute or suggest improvements! 🚀
+  
